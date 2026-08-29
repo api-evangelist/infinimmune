@@ -8,6 +8,17 @@ description: 'Infinimmune is a biotechnology company that discovers and engineer
   pipeline programs targeting IL-13, APRIL, and IL-17F. Backed by Playground Global. Infinimmune
   publishes no public developer API, SDKs, or machine-readable specifications; this API Evangelist
   profile captures the company identity and its public web, security, and legal surface.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
