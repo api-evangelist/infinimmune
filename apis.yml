@@ -48,7 +48,7 @@ tags:
 - Antibody Discovery
 - Therapeutics
 - Drug Discovery
-- Machine-Learning
+- Machine Learning
 tags_raw:
 - Company
 - Engineered Biology
@@ -57,6 +57,7 @@ tags_raw:
 - Therapeutics
 - Drug Discovery
 - Machine Learning
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
